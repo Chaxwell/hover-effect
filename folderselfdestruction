@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd ..
+rm -drf hover-effect/
+echo FOLDER DELETED
